@@ -15,12 +15,15 @@
     "@commitlint/cli": "^19.8.1",
     "@commitlint/config-conventional": "^19.8.1",
     "@eslint/js": "^9.29.0",
+    "@types/node": "^24.0.4",
     "eslint": "^9.29.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-prettier": "^5.5.1",
     "globals": "^16.2.0",
     "husky": "^9.1.7",
     "prettier": "^3.6.2",
+    "rollup": "^4.44.1",
+    "typescript": "^5.8.3",
     "typescript-eslint": "^8.35.0"
   }
 }

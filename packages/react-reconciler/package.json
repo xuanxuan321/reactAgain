@@ -1,13 +1,13 @@
 {
-  "name": "react",
+  "name": "react-reconciler",
   "version": "1.0.0",
-  "description": "React 公用方法",
-  "module": "index.ts",
-  "dependencies": {
-    "shared": "workspace:*"
-  },
+  "description": "react协调器",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "shared": "workspace:*"
   },
   "keywords": [],
   "author": "",
